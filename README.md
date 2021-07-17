@@ -1,4 +1,4 @@
-# vue-electron with crawler
+# vue-electron for crawler and monitoring
 
 This is a desktop front-end app for controlling crawler, line notify and window10 screen monitoring. And also you need to provide a config.json for configuring your settings. The format of config.json is down below.
 
